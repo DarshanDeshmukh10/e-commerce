@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className='flex flex-row justify-between'>
         <img src="" alt="" />
         <div>
-            <p>Home</p>
+            <p></p>
             
         </div>
       </div>
